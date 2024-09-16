@@ -1,4 +1,4 @@
-# Postgresql-Data-Cleaning-and-Transformation-Using-PostgreSQL
+# Data-Cleaning-and-Transformation-Using-PostgreSQL
 # Project Overview:
 This project demonstrates how to clean and transform raw data using PostgreSQL.It focuses on common data cleaning tasks such as removing duplicates, standardizing data, handling missing values, and removing unnecessary columns, ensuring the dataset is ready for further analysis and modeling.
 
@@ -12,10 +12,11 @@ PostgreSQL: Database management and SQL for data cleaning.
 SQL Queries: To perform transformations like removing duplicates, standardizing values, and handling missing data.
 
 # Steps Involved:
-i. Remove Duplicates.
-ii.Standardize the Data.
-iii.Handle NULL or Blank Values.
-iv.Remove Unnecessary Columns.
+
+- Remove Duplicates.
+- Standardize the data.
+- Handle Null or blank values.
+- Remove unnecessary columns.
 
 # Reference
 Data Source for the project can be found here:
