@@ -8,8 +8,8 @@ The objective of this project is to demonstrate essential data cleaning operatio
 
 
 # Technologies Used:
-PostgreSQL: Database management and SQL for data cleaning.
-SQL Queries: To perform transformations like removing duplicates, standardizing values, and handling missing data.
+- PostgreSQL: Database management and SQL for data cleaning.
+- SQL Queries: To perform transformations like removing duplicates, standardizing values, and handling missing data.
 
 # Steps Involved:
 
@@ -20,4 +20,4 @@ SQL Queries: To perform transformations like removing duplicates, standardizing 
 
 # Reference
 Data Source for the project can be found here:
-https://www.kaggle.com/datasets/swaptr/layoffs-2022
+- https://www.kaggle.com/datasets/swaptr/layoffs-2022
